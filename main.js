@@ -54,7 +54,7 @@ Apify.main( async ()=>{
       }
 
       await worldkvStore.setValue('LATEST_WORLD', w_result);
-      // await Apify.pushData(w_result);
+      await Apify.pushData(w_result);
 
 
 

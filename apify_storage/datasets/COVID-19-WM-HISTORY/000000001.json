@@ -1,0 +1,19 @@
+{
+  "regionData": [
+    {
+      "country": "World",
+      "totalCases": 147093279,
+      "newCases": 40356,
+      "totalDeaths": 3113345,
+      "newDeaths": 849,
+      "totalRecovered": 125096635,
+      "activeCases": 18883299,
+      "seriousCritical": 110272,
+      "casesPerMil": 18871,
+      "deathsPerMil": 399.4,
+      "totalTests": 0,
+      "testsPerMil": 0,
+      "population": 0
+    }
+  ]
+}

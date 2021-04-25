@@ -1,0 +1,16 @@
+{
+  "name": "world-covid-stats",
+  "version": "1.0.0",
+  "description": "scraper to retrieve world covid statistics",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cmain.js)",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manas Shankar",
+  "license": "ISC",
+  "dependencies": {
+    "apify": "^1.1.2",
+    "puppeteer": "^9.0.0"
+  }
+}
